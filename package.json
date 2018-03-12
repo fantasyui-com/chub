@@ -1,0 +1,24 @@
+{
+  "name": "chub",
+  "version": "1.0.0",
+  "description": "Crate subscription, management and shipping business in a box.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/chub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/chub/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/chub#readme",
+  "dependencies": {
+    "npm": "^5.7.1",
+    "telnet": "0.0.1"
+  }
+}
