@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/fantasyui-com/chub#readme",
   "dependencies": {
-    "npm": "^8.1.4",
+    "npm": "^9.7.2",
     "telnet": "0.0.1"
   }
 }
